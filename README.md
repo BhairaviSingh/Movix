@@ -23,7 +23,23 @@ Movix is a responsive movie discovery web application built with React and Redux
 ## Installation
 
 1. Clone the repository:
-
+   
    ```bash
-   git clone https://github.com/your-username/movix.git
+   git clone https://github.com/BhairaviSingh/Movix.git
 
+2. Navigate to the project directory:
+
+   cd Movix
+
+3. Install dependencies
+   
+   npm install
+
+4. Start the development server:
+
+   npm run dev
+
+5. Open the application in your browser at http://http://localhost:5173.
+   
+
+   
